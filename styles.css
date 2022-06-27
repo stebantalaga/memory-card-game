@@ -12,13 +12,13 @@ body {
 }
 
 .memory-game {
-    width: 1000px;
+    width: 1200px;
     margin: auto;
     padding: 40px;
     border-radius: 16px;
     background-color: #1f1f2080;
-    backdrop-filter: blur(4px);
-    border: 2px solid white;
+    backdrop-filter: blur(8px);
+    border: 2px solid #ffffff60;
     display: flex;
     flex-wrap: wrap;
     align-content: center;
